@@ -1,4 +1,4 @@
-# CommonSchoolMap
+# Common School Map
 
 Before state-centralized education became the presiding public model in the twentieth century, US education history was entwined with the common school movement. During the nineteenth century, the movement began with the ideal of a free-of-charge common schooling governed by locally elected school boards and ended with a federated system assuming greater control over funding and educational standards.
 
